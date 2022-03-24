@@ -1,6 +1,6 @@
-# Petemoss
+# Splash
 
-Petemoss is a semi-calligraphic brush script. It is inspired by the forms created using a Pentel™ color brush.
+Inspired by the splatters that come from a heavily inked architectural ruling pen gliding along the surface of a highly textured watercolor page— Splash! Just as water droplets splash the ocean’s shore, little control can be predicted and no two splashes are exactly alike. The result is wonderfully organic and natural surprises.
 
 ![Sample Image](documentation/image1.png)
 
